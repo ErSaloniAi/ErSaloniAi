@@ -21,10 +21,14 @@ Currently exploring **AI-powered systems and automation** to solve practical pro
 ![Java](https://img.shields.io/badge/java-orange?style=for-the-badge\&logo=java)
 ![Python](https://img.shields.io/badge/python-blue?style=for-the-badge\&logo=python)
 ![HTML5](https://img.shields.io/badge/html5-orange?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/css3-blue?style=for-the-badge\&logo=css3)
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge\&logo=javascript)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge\&logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-purple?style=for-the-badge\&logo=bootstrap)
+![Node.js](https://img.shields.io/badge/node.js-green?style=for-the-badge\&logo=node.js)
+![DBMS](https://img.shields.io/badge/DBMS-grey?style=for-the-badge)
+![DSA](https://img.shields.io/badge/DSA-important?style=for-the-badge)
 
----
 
 # 🚀 Projects:
 
