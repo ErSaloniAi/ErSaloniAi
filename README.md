@@ -10,7 +10,7 @@ Currently exploring **AI-powered systems and automation** to solve practical pro
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)]https://www.linkedin.com/in/saloni-gorsiya-1495a6324
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/saloni-gorsiya-1495a6324)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)](https://github.com/ErSaloniAi)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge\&logo=gmail)](mailto:salonigorasiya.7906@gmail.com)
 
