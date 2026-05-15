@@ -1,79 +1,140 @@
-# 💫 About Me:
+<div align="center">
 
-👩‍💻 Computer Engineering Student
-🚀 Tech Enthusiast | Problem Solver | Lifelong Learner
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Saloni+Gorsiya;Computer+Engineering+Student;AI+%7C+Full+Stack+Developer;Building+Real+World+Products;Welcome+To+My+Digital+Universe+🚀" />
 
-I am passionate about building **real-world applications** using Java, Python, and Web Technologies.
-Currently exploring **AI-powered systems and automation** to solve practical problems.
+</div>
 
 ---
 
-## 🌐 Socials:
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:7B2FF7&height=120&section=header"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/saloni-gorsiya-1495a6324)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)](https://github.com/ErSaloniAi)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge\&logo=gmail)](mailto:salonigorasiya.7906@gmail.com)
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
+
+<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+✨ Turning ideas into scalable digital products  
+🚀 Passionate about AI, Automation & Backend Systems  
+💻 Building production-ready applications  
+🌱 Currently mastering System Design + Spring Boot + AI  
+⚡ Love solving real-world problems with code  
+🎯 Mission: Build products that impact millions  
+
+<br clear="both"/>
 
 ---
 
-# 💻 Tech Stack:
+# 🌌 Tech Universe
 
-![Java](https://img.shields.io/badge/java-orange?style=for-the-badge\&logo=java)
-![Python](https://img.shields.io/badge/python-blue?style=for-the-badge\&logo=python)
-![HTML5](https://img.shields.io/badge/html5-orange?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/css3-blue?style=for-the-badge\&logo=css3)
-![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge\&logo=javascript)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge\&logo=tailwindcss)
-![Bootstrap](https://img.shields.io/badge/bootstrap-purple?style=for-the-badge\&logo=bootstrap)
-![Node.js](https://img.shields.io/badge/node.js-green?style=for-the-badge\&logo=node.js)
-![DBMS](https://img.shields.io/badge/DBMS-grey?style=for-the-badge)
-![DSA](https://img.shields.io/badge/DSA-important?style=for-the-badge)
+<div align="center">
 
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,tailwind,bootstrap,nodejs,flask,mysql,git,github,vscode" />
 
-# 🚀 Projects:
+</div>
+
+---
+
+# 🚀 Featured Projects
 
 ## 🏠 EstateHub
+> Smart real-estate ecosystem
 
-A real estate platform that allows users to explore properties, view details, and manage listings.
-**Tech:** Java, DBMS
+✨ Property management  
+✨ Authentication  
+✨ Database integration  
 
----
-
-## 📄 Resume Builder
-
-A Java-based application to create professional resumes with structured templates.
-**Tech:** Java
+**Tech:** Java + DBMS
 
 ---
 
 ## 🎓 CampusXHire
+> AI-powered recruitment platform
 
-A placement-oriented platform connecting students with job opportunities and recruiters.
-**Tech:** Python, Flask, DBMS
+✨ Student dashboard  
+✨ Recruiter portal  
+✨ Smart filtering  
+
+**Tech:** Python + Flask + Database
 
 ---
 
-## 🏦 Bank Management System
+## 📄 Resume Builder
+> Professional resume generation system
 
-A system to manage banking operations like account handling, transactions, and records.
+✨ Dynamic templates  
+✨ Export support  
+✨ Structured architecture  
+
 **Tech:** Java
 
 ---
 
-# 🔥 Current Focus:
+## 🏦 Bank Management System
+> Secure banking operations
 
-* 🤖 Building AI-based automation systems
-* ⚙️ API integration (GitHub, Gmail, etc.)
-* 🚀 Real-world problem solving
+✨ Transactions  
+✨ Account management  
+✨ Data security  
 
----
-
-# 📊 GitHub Stats:
-
-![Stats](https://github-readme-stats.vercel.app/api?username=your-username\&show_icons=true)
+**Tech:** Java
 
 ---
 
-# 🏆 GitHub Trophies
+# 📈 Contribution Activity
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=your-username)
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ErSaloniAi&theme=react-dark&hide_border=true&area=true"/>
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErSaloniAi&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ErSaloniAi&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ErSaloniAi&theme=algolia&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 🌍 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/saloni-gorsiya-1495a6324">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:salonigorasiya.7906@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/ErSaloniAi">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/ErSaloniAi/ErSaloniAi/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:00F5FF&height=120&section=footer"/>
