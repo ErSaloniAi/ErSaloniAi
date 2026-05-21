@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Saloni+Gorsiya;Computer+Engineering+Student;AI+%7C+Full+Stack+Developer;Building+Real+World+Products;Welcome+To+My+Digital+Universe+🚀" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 </div>
 
