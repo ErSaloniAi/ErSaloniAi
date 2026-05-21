@@ -3,6 +3,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Computer+Engineering+Student;AI+%7C+Full+Stack+Developer;Building+Real+World+Products;Open+Source+Contributor;Welcome+To+My+Digital+Universe+🚀" />
 </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="280" />
+</p>
 
 ---
 
