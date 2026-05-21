@@ -1,12 +1,28 @@
-<div align="center">
+<h1 align="center">Hi 👋 I'm Saloni Gorsiya</h1>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Computer+Engineering+Student;AI+%7C+Full+Stack+Developer;Building+Real+World+Products;Open+Source+Contributor;Welcome+To+My+Digital+Universe+🚀" />
+</p>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:7B2FF7&height=120&section=header"/>
+## 🚀 About Me
+
+- 🎓 Computer Engineering Student  
+- 💻 Passionate about AI & Full Stack Development  
+- 🌱 Currently learning advanced system design + AI tools  
+- 🔥 Contributing in Open Source (GSSoC / similar programs)  
+- 🎯 Focused on building real-world impactful projects  
+
+---
+
+## ⚙️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,react,nodejs,spring,html,css,git,github,mysql,linux" />
+
+</p>
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
 
