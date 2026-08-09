@@ -2,9 +2,24 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="100%">
 
-<a href="https://github.com/ErSaloniAi">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Saloni+Gorsiya+%F0%9F%91%8B;Backend+Developer+%F0%9F%90%8D+Python+%2B+Django+%2B+Flask;I+turn+business+problems+into+backend+systems;Currently+building+AI-powered+products+%E2%9A%A1" alt="Typing SVG">
-</a>
+<table>
+<tr>
+<td width="60%" valign="middle">
+
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=2800&pause=900&color=A855F7&center=false&vCenter=true&width=500&height=100&lines=Saloni+Gorsiya;S.+A.+L.+O.+N.+I;%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Saloni+Gorsiya" alt="Saloni Gorsiya">
+</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=94A3B8&center=false&vCenter=true&width=500&lines=Backend+Developer+%F0%9F%90%8D+Python+%2B+Django+%2B+Flask;I+turn+business+problems+into+backend+systems;Currently+building+AI-powered+products+%E2%9A%A1;Always+debugging%2C+never+bored+%F0%9F%98%84" alt="Typing SVG">
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG4xaDNmbGFrZWVwM3R1NHIxcnlnNzByY3dmOTBpeHduMTRycnI0cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tkEaYA3Kd5WtyXtLqu/giphy.gif" width="230">
+
+</td>
+</tr>
+</table>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=ErSaloniAi&style=for-the-badge&color=a855f7&label=PROFILE+VIEWS">
