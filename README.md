@@ -1,13 +1,4 @@
 
-
-<p>
-  <a href="https://linkedin.com/in/salonigorsiya"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:salonigorasiya.7906@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/ErSaloniAi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
-
-</div>
-
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
 
 ## 🚀 About Me
@@ -18,7 +9,6 @@ class SaloniGorsiya:
         self.role = "Backend Developer"
         self.based_in = "Ahmedabad, Gujarat, India 🇮🇳"
         self.education = "B.E. Computer Engineering, LJ University (2024–2028)"
-        self.cgpa = "8.92 / 10"
         self.stack = ["Python", "Django", "Flask", "PostgreSQL", "REST APIs"]
         self.currently_seeking = "Software Engineering / Backend Internship 🎯"
 
