@@ -1,17 +1,4 @@
 
-</td>
-<td width="40%" align="center">
-
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG4xaDNmbGFrZWVwM3R1NHIxcnlnNzByY3dmOTBpeHduMTRycnI0cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tkEaYA3Kd5WtyXtLqu/giphy.gif" width="230">
-
-</td>
-</tr>
-</table>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=ErSaloniAi&style=for-the-badge&color=a855f7&label=PROFILE+VIEWS">
-  <img src="https://img.shields.io/github/followers/ErSaloniAi?style=for-the-badge&color=a855f7&label=FOLLOWERS&labelColor=black">
-</p>
 
 <p>
   <a href="https://linkedin.com/in/salonigorsiya"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
