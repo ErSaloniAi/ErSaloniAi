@@ -13,9 +13,7 @@ class SaloniGorsiya:
         return "I don't just write code — I architect systems that scale."
 ```
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500">
-</div>
+
 
 - 🏗️ I architect **backend systems** — from database schema to API design to deployment
 - 🤖 I integrate **AI (Gemini API)** into real products, not just demos
