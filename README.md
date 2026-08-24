@@ -1,19 +1,38 @@
+<div align="center">
+
+# Hi, I'm Saloni Gorsiya 👋
+
+### Backend-Focused Full Stack Developer | Python · Django · React · AI Integration
+
+<a href="https://portfolio-ashy-six-76.vercel.app">
+  <img src="https://img.shields.io/badge/🌐_View_My_Portfolio-portfolio--ashy--six--76.vercel.app-A855F7?style=for-the-badge&logoColor=white" />
+</a>
+
+<a href="mailto:salonigorasiya.7906@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+<a href="https://linkedin.com/in/salonigorsiya"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/ErSaloniAi"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
+<img src="https://img.shields.io/badge/📍_Ahmedabad,_Gujarat,_India-333?style=flat-square" />
+
+</div>
+
+---
+
 ## 🚀 About Me
 
 ```python
 class SaloniGorsiya:
     def __init__(self):
-        self.role = "Backend Developer"
+        self.role = "Backend Developer / Full Stack Engineer"
         self.based_in = "Ahmedabad, Gujarat, India 🇮🇳"
-        self.education = "B.E. Computer Engineering, LJ University (2024–2028)"
-        self.stack = ["Python", "Django", "Flask", "PostgreSQL", "REST APIs"]
-        self.currently_seeking = "Software Engineering / Backend Internship 🎯"
+        self.education = "B.E. Computer Engineering, LJ University (2024–2028) | CGPA: 8.92/10"
+        self.stack = ["Python", "Django", "Flask", "PostgreSQL", "React", "REST APIs"]
+        self.currently_seeking = "Software Engineering / Backend / Data Science Internship 🎯"
 
     def philosophy(self):
         return "I don't just write code — I architect systems that scale."
 ```
 
-
+Computer Engineering undergraduate with hands-on experience building backend, full-stack, and data-driven applications using Python, Java, SQL, Django, Flask, and React. Comfortable across REST API development, database design, authentication, data analysis, and object-oriented programming — demonstrated through end-to-end software projects with a strong foundation in DSA, DBMS, and Data Science.
 
 - 🏗️ I architect **backend systems** — from database schema to API design to deployment
 - 🤖 I integrate **AI (Gemini API)** into real products, not just demos
@@ -23,36 +42,24 @@ class SaloniGorsiya:
 
 ---
 
-## 🧠 Tech Arsenal
+## 🧠 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,java,js,django,flask,postgres,mysql,sqlite,mongodb,redis,react,html,css,tailwind,nodejs,express,git,github,vscode,postman,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,java,js,django,flask,postgres,mysql,sqlite,mongodb,redis,react,nextjs,html,css,tailwind,nodejs,express,solidity,docker,git,github,vscode,postman&theme=dark" />
 
 </div>
 
-<table width="100%">
-<tr>
-<td valign="top" width="50%">
-
-**⚙️ Backend & APIs**
-`Django` `Flask` `SQLAlchemy` `Celery` `REST APIs` `Node.js` `Express.js`
-
-**🗄️ Databases**
-`PostgreSQL` `MySQL` `SQLite` `MongoDB` `Redis`
-
-</td>
-<td valign="top" width="50%">
-
-**🎨 Frontend**
-`React.js` `HTML5` `CSS3` `Bootstrap` `Tailwind CSS`
-
-**🧩 AI & Tools**
-`Gemini API` `Git` `GitHub` `Postman` `VS Code`
-
-</td>
-</tr>
-</table>
+| Category | Skills |
+|---|---|
+| **Languages** | Python, Java, JavaScript, SQL |
+| **Backend** | Django, Flask, Spring Boot, REST APIs, SQLAlchemy, Celery, Node.js, Express.js |
+| **Frontend** | React.js, Next.js, HTML5, CSS3, Bootstrap, Tailwind CSS, Thymeleaf |
+| **Databases** | PostgreSQL, MySQL, SQLite, MongoDB, Redis |
+| **AI / APIs** | Gemini API Integration, AI-driven Evaluation Workflows, REST API Design & Consumption |
+| **Blockchain** | Solidity, Smart Contracts, Polygon, Arbitrum Stylus (Rust) |
+| **Tools & DevOps** | Docker, JWT Security, Git, GitHub, Postman, VS Code |
+| **Core CS** | Object-Oriented Programming, Data Structures & Algorithms, DBMS, Database Design |
 
 ---
 
@@ -73,86 +80,40 @@ class SaloniGorsiya:
 
 ---
 
-## 💼 Projects Worth a Look
+## 💼 Projects
 
-### 🧾 [VyaparBuddy](https://github.com/ErSaloniAi/VyaparBuddy) — AI-Powered Business Management Platform
-`React` `Django` `PostgreSQL` `Gemini API` `Celery` `Redis`
-
-> A full SME operations engine — sales, expenses, stock, customers, suppliers, payments — wrapped in an AI layer that thinks alongside the user.
-
-- 🏗️ 11 interconnected Django models with model-level signals & validators
-- 🤖 Gemini-powered field suggestions, report narratives & in-app chat assistant (cached for cost control)
-- 🔀 Killed manual CSV mapping with rapidfuzz fuzzy matching + confirmation UI
-- 📈 Daily/Weekly/Monthly reports with Chart.js + PDF exports via ReportLab
-- 🎨 Rebuilt the entire React frontend with custom hooks & reusable chart components
-
-<br>
-
-### 🛡️ SmartPol AI — Crime Intelligence Platform
-`Django REST Framework` `React.js`
-
-> Rule-based AI platform for crime intelligence — SHA-256 evidence hashing, suspect network graphs, and five-tier role-based access. Showcased at the **KANAD S.H.I.E.L.D. Cybersecurity Hackathon 2026** (i-Hub Gujarat), evaluated by officers from the Cyber Centre of Excellence, Gujarat Police.
-
-<br>
-
-<table width="100%">
-<tr>
-<td valign="top" width="50%">
-
-**🎓 [CampusXHire](https://github.com/ErSaloniAi/CampusXhire)**
-`Python` `Flask` `SQLAlchemy` `SQLite`
-
-Campus recruitment platform with OTP-verified auth and a skill-overlap job-matching algorithm. Built with a 3-member team, deployed on Railway.
-
-</td>
-<td valign="top" width="50%">
-
-**🧭 [CareerPath](https://github.com/ErSaloniAi/CareerPath)**
-`Python` `Flask` `SQLAlchemy` `MySQL/SQLite`
-
-CareerLens — an adaptive assessment engine delivering 20-question tests across 30+ career paths, wired into CampusXHire.
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-**💰 InternPay**
-`Solidity / Web3`
-
-Blockchain escrow platform combining AI verification with human dispute resolution for internship payments. Built as part of a 4-member team.
-
-</td>
-<td valign="top" width="50%">
-
-**🌐 [Arbverse](https://github.com/ErSaloniAi/Arbverse)**
-`HTML5` `CSS3` `JavaScript` `REST API`
-
-Hand-built glassmorphism Web3 education site with live crypto prices via the CoinGecko API, deployed on GitHub Pages.
-
-</td>
-</tr>
-</table>
+| Project | Stack | Highlights |
+|---|---|---|
+| 🧾 **[VyaparBuddy](https://github.com/ErSaloniAi/VyaparBuddy)** — AI-Powered Business Intelligence Platform | Python, Django, PostgreSQL, React, Gemini API, Celery, Redis, ReportLab | Architected 11 interconnected Django models with model-level signals & validators · Gemini-powered report narratives & in-app chat assistant · Killed manual CSV mapping with rapidfuzz fuzzy matching · Daily/Weekly/Monthly reports with Chart.js + PDF export via ReportLab |
+| 💰 **[InternPay](https://github.com/vinodprajapati05112005-cell/InternPay)** — AI-Verified Blockchain Escrow Platform *(Team Project)* | Node.js, Express.js, PostgreSQL, Redis, Solidity, Polygon | Contributing to a 4-member team building a blockchain escrow platform to prevent payment disputes in freelance/internship work · Integrating AI-assisted work verification with Solidity smart contracts on Polygon · 24-hour human-reviewed dispute resolution workflow |
+| 🛡️ **SmartPol AI** — Crime Intelligence Platform | Django REST Framework, React.js | Rule-based AI platform with SHA-256 evidence hashing, suspect network graphs, five-tier role-based access · Showcased at **KANAD S.H.I.E.L.D. Cybersecurity Hackathon 2026** (i-Hub Gujarat), evaluated by Cyber Centre of Excellence, Gujarat Police |
+| 🎓 **[CampusXHire](https://github.com/ErSaloniAi/CampusXhire)** — Campus Recruitment Platform | Python, Flask, SQLAlchemy, SQLite | OTP-based authentication · Skill-overlap job-matching algorithm · Company dashboard for job posting & applicant management · 3-member team, deployed on Railway |
+| 🧭 **[CareerPath](https://github.com/ErSaloniAi/CareerPath)** — Career Assessment Platform | Python, Flask, SQLAlchemy, MySQL/SQLite, Bootstrap | CareerLens — adaptive assessment engine with 20-question tests across 30+ career paths · Integrated with CampusXHire |
+| 🏠 **[EstateHub](https://github.com/ErSaloniAi/EstateHub)** — Real Estate Management System | Java, MySQL, DSA | User authentication & property management · Applied OOP and Data Structures & Algorithms for structured record management |
+| 🌐 **[Arbverse](https://github.com/ErSaloniAi/Arbverse)** — Web3 Education Site | HTML5, CSS3, JavaScript, REST API | Hand-built glassmorphism UI with live crypto prices via CoinGecko API · Deployed on GitHub Pages |
 
 ---
 
 ## 📜 Certifications
 
-<div align="center">
+| Certification | Issuer |
+|---|---|
+| Exploratory Data Analysis for Machine Learning | IBM (Coursera) |
+| Inheritance & Data Structures in Java | University of Pennsylvania (Coursera) |
+| Web3 & Rust Foundations | Lampros DAO |
+| Cloud Computing Workshop | ACM & ENCODE |
 
-![Web3 & Rust](https://img.shields.io/badge/Web3_%26_Rust_Foundations-Lampros_DAO-8E44AD?style=for-the-badge)
-![EDA for ML](https://img.shields.io/badge/EDA_for_Machine_Learning-IBM_%2F_Coursera-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-![Java DS](https://img.shields.io/badge/Inheritance_%26_Data_Structures_in_Java-UPenn_%2F_Coursera-990000?style=for-the-badge)
-![Cloud Computing](https://img.shields.io/badge/Cloud_Computing_Workshop-ACM_%26_ENCODE-00558C?style=for-the-badge)
-
-</div>
+---
 
 ## 🏆 Achievements & Leadership
 
-- 🛡️ Showcased **SmartPol AI** at the **KANAD S.H.I.E.L.D. Cybersecurity Hackathon 2026**, evaluated by senior IPS officials and the Cyber Centre of Excellence, Gujarat Police
-- 🥇 Presented research poster **"BioTherm Sentinel: Smart Cold-Chain Monitoring System"** at **ICRAET 2026** (international research conference)
-- 🌟 Showcased **CareerPath** at LJ Innovation Village 2026
-- ⛓️ Participant, Lampros DAO Blockchain Hackathon (Arbitrum Stylus / Rust smart contracts)
+| Achievement | Details |
+|---|---|
+| 🛡️ Cybersecurity Hackathon | Showcased **SmartPol AI** at KANAD S.H.I.E.L.D. Cybersecurity Hackathon 2026, evaluated by senior IPS officials & Cyber Centre of Excellence, Gujarat Police |
+| 🥇 Research Poster | Presented **"BioTherm Sentinel: Smart Cold-Chain Monitoring System"** at ICRAET 2026, an international research conference |
+| 🌟 Project Showcase | Showcased **CareerPath** at LJ Innovation Village 2026 |
+| ⛓️ Blockchain Hackathon | Participant, Lampros DAO Blockchain Hackathon (Arbitrum Stylus / Rust smart contracts) |
+| 🌱 Open Source | Contributor at GSSoC 2026 (GirlScript Summer of Code) |
 
 ---
 
@@ -162,14 +123,13 @@ Hand-built glassmorphism Web3 education site with live crypto prices via the Coi
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%">
 </div>
 
-<sub>💡 Generated by a GitHub Action — set it up on your own repo to keep this animated automatically.</sub>
-
 ---
 
 <div align="center">
 
 ## 📫 Let's Build Something
 
+<a href="https://portfolio-ashy-six-76.vercel.app"><img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=vercel&logoColor=white"></a>
 <a href="mailto:salonigorasiya.7906@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://linkedin.com/in/salonigorsiya"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
