@@ -2,7 +2,7 @@
 
 # Hi, I'm Saloni Gorsiya 👋
 
-### Backend-Focused Full Stack Developer | Python · Django · React · AI Integration
+### Backend-Focused Full Stack Developer | Python · Java · Django · React · AI Integration
 
 <a href="https://portfolio-ashy-six-76.vercel.app">
   <img src="https://img.shields.io/badge/🌐_View_My_Portfolio-portfolio--ashy--six--76.vercel.app-A855F7?style=for-the-badge&logoColor=white" />
@@ -25,7 +25,7 @@ class SaloniGorsiya:
         self.role = "Backend Developer / Full Stack Engineer"
         self.based_in = "Ahmedabad, Gujarat, India 🇮🇳"
         self.education = "B.E. Computer Engineering, LJ University (2024–2028) | CGPA: 8.92/10"
-        self.stack = ["Python", "Django", "Flask", "PostgreSQL", "React", "REST APIs"]
+        self.stack = ["Python", "Django", "Flask", "PostgreSQL", "React" ,"Java", "REST APIs"]
         self.currently_seeking = "Software Engineering / Backend / Data Science Internship 🎯"
 
     def philosophy(self):
